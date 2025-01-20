@@ -1,6 +1,5 @@
-<div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=SeongeunKim&fontsize=90&fontColor=black)
-</div>
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=SeongeunKim&fontsize=90&fontColor=black)
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
