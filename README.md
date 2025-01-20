@@ -23,7 +23,6 @@
 </div>
 
 <br>
-<br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -33,7 +32,6 @@
 </div>
 
 <br>
-<br>
 
 <h3 align="center">✏️ Studying ✏️</h3>
 <div align="center">
@@ -42,8 +40,19 @@
   <img src="https://img.shields.io/badge/FLASK-000000?style=flat-square&logo=flask&logoColor=white"/></a>&nbsp
 </div>
 
-
-<br>
 <br>
 
-추가 예정!
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@kswdot">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:rlajtdmds7a@naver.com">
+    <img
+      src="https://img.shields.io/badge/rlatjddms7a@naver.com.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+
+<br>
+
+<h3 align="center"> 추가 예정! </h3>
