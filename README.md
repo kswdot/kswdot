@@ -37,6 +37,8 @@
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/FLASK-000000?style=flat-square&logo=flask&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JENKINS-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>&nbsp
 </div>
 
 <br>
