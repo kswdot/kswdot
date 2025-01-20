@@ -49,7 +49,7 @@
   </a>
   <a href="mailto:rlajtdmds7a@naver.com">
     <img
-      src="https://img.shields.io/badge/rlatjddms7a@naver.com-00E47C?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/rlatjddms7a@naver.com-00E47C?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
 </div>
 
